@@ -18,9 +18,9 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 
 * 29-09-2025
    - Found an issue with the Joystick port, pin 11 and 13 on U42/74LS07. Now has been corrected. Thanks Joao for letting me know.
+   - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/Omega_MSX2/blob/main/Omega%20MSX%20Mainboard%201_3%20MKV.html)
 * 10-05-2024
    - Added positility to select the connection type of Slots pin 44 (by SPDT switch SW3). They can be connected to GND (normal) or to NMI.
-   - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/Omega_MSX2/blob/main/Omega%20MSX%20Mainboard%201.2.7%20MKV.html)
 * 20-04-2024
    - Version updated to 1.2.7 MKV
    - Power lines design has been changed.
@@ -89,10 +89,7 @@ New footprints for internal/external connections:
 
 # Images
 
-![Vwersion 1.2.7 MKV Front](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_Front.jpg)
-![Vwersion 1.2.7 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_Back.jpg)
-![Vwersion 1.2.7 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_+5v.jpg)
-![Vwersion 1.2.7 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_+12v.jpg)
-![Vwersion 1.2.7 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_2_7_MKV_-12v.jpg)
+![Vwersion 1.3 MKV Front](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_3_MKV_Front.jpg)
+![Vwersion 1.3 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_MainBoard_1_3_MKV_Back.jpg)
 ![Version 1.2 MKV Front](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_Keyboard_1_2_MKV_Front.jpg)
 ![Version 1.2 MKV Back](https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_Keyboard_1_2_MKV_Back.jpg)
