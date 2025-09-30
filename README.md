@@ -17,6 +17,7 @@ This project is an open source implementation of an MSX2 compatible computer. Th
 # Mainboard PCB
 
 * 29-09-2025
+   - Mainboard updated to version 1.3 MKV
    - Found an issue with the Joystick port, pin 11 and 13 on U42/74LS07. Now has been corrected. Thanks Joao for letting me know.
    - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/Omega_MSX2/blob/main/OmegaMSX_Mainboard_1_3_MKV.html)
 * 10-05-2024
